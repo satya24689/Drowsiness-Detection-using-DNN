@@ -171,6 +171,9 @@ cv2.destroyAllWindows()
  - It will be implemented on institutions to decrase the drowsiness on children.
  - In  case of vehicles by detecting drosiness it will be a message to stop the vehicle.
 
+ - ![General-scheme-of-the-drowsiness-detection-system](https://github.com/satya24689/Drowsiness-Detection-using-DNN/assets/141759679/9c1af264-4cbf-480d-885a-c12c149e51a1)
+
+
  # Declaration
  - We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.
   
