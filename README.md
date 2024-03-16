@@ -55,7 +55,7 @@ Drowsiness-related accidents are a major concern worldwide, and technologies lik
 ![flow chart'](https://github.com/satya24689/Drowsiness-Detection-using-DNN/assets/141759679/ca3aa024-b334-4cd9-a2fd-41565af58f1b)
 
 
-# How to run Locally
+# How to run code Locally
 - step 1: install packages
   ```
   !pip install cv2
