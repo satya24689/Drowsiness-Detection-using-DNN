@@ -64,6 +64,7 @@ Drowsiness-related accidents are a major concern worldwide, and technologies lik
   !pip install pygame
   ```
 - step 2 : install dat file from online ,which suitable for code
+  > This type is a data file that typically accompanies other files to support programs or applications. 
 - step 3 : download buzzer or alarm audio file for alerting drowsy people
 - step 4 : It will display on screen by questioning sentence ' Are You sleepy' by giving access to camera.
 - step 5 : code is executed on jupyter by `run` option
@@ -80,8 +81,7 @@ from scipy.spatial import distance
 import pygame
 
 pygame.mixer.init()
-pygame.mixer.music.load("buzzer.mp3")  # Replace "buzzer.mp3" with your buzzer sound file
-
+pygame.mixer.music.load("buzzer.mp3")  
 def calculate_EAR(eye):
     A = distance.euclidean(eye[1], eye[5])
     B = distance.euclidean(eye[2], eye[4])
